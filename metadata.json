@@ -1,0 +1,8 @@
+{
+  "name": "Smart Usage",
+  "description": "Smart Expense & Budget Management System featuring real-time bank syncing and automated monthly spending reports in Indian Rupees.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
