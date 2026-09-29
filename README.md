@@ -1,4 +1,4 @@
-# SpendWise AI 💰
+# Smart Usage AI 💰
 
 **AI-Powered Personal Expense & Budget Management System**
 
